@@ -2,7 +2,7 @@
 title: gnalb.at
 ---
 
-Hi, it's [Karlo](tabla.ng)!
+Hi, it's [Karlo](https://tabla.ng)!
 
 1. Extremely fast full-text search by pressing `Ctrl` + `k`
 2. Customizable and hackable design based on Hugo

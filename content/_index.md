@@ -1,8 +1,8 @@
 ---
-title: 🪴 Quartz 3.2
+title: gnalb.at
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+Hi, it's [Karlo](tabla.ng)!
 
 1. Extremely fast full-text search by pressing `Ctrl` + `k`
 2. Customizable and hackable design based on Hugo

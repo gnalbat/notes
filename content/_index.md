@@ -1,5 +1,5 @@
 ---
-title: gnalb.at
+title: Home
 ---
 
 Hi, it's [Karlo](https://tabla.ng)!

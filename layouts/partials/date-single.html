@@ -1,0 +1,10 @@
+{{if .Date}}
+Created {{.Date.Format "Jan 2, 2006"}}
+{{end}}
+{{if ne .Date .Lastmod}}
+<br>
+Last updated {{.Lastmod.Format "Jan 2, 2006"}}
+{{end}}
+{{if and (not .Date) (not .Lastmod)}}
+Date Unknown
+{{end}}
